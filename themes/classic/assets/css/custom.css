@@ -1,0 +1,26 @@
+/*
+ * Custom code goes here.
+ * A template should always ship with an empty custom.css
+ */
+
+
+#_desktop_top_menu
+{
+    font-size: 70%;
+}
+
+.footer-container .container
+{
+    margin: 0 auto;
+}
+
+.language-selector-wrapper .dropdown-item:hover
+{
+    color:black !important;
+    font-weight: bold;
+}
+
+#footer
+{
+    background-color: lightgrey;
+}
